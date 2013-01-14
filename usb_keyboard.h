@@ -1,8 +1,6 @@
 #ifndef _USB_KEYBOARD_H_
 #define _USB_KEYBOARD_H_
 
-#include <stdint.h>
-
 /* MODIFIERS */
 #define KEY_CTRL	0x01
 #define KEY_SHIFT	0x02
